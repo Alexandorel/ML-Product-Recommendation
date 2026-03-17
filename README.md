@@ -5,12 +5,12 @@ Repository destinat materiei "Sisteme Inteligente"
 
 ## Sursa date
 
-[Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows/data)
+[Movies](https://www.kaggle.com/datasets/abdallahwagih/movies)
 
 Descarcat la data: 17.03.2026
 ## Obiectivul proiectului
 
-Obiectivul proiectului este sa dezvolt un sistem de recomandare care sugereaza filme si show-uri Netflix si TV utilizatorilor in functie de preferintele si istoricul lor de vizionare, folosind tehnici de Machine Learning.
+Obiectivul proiectului este sa dezvolt un sistem de recomandare care sugereaza filme TV utilizatorilor in functie de preferintele si istoricul lor de vizionare, folosind tehnici de Machine Learning.
 
 
 
