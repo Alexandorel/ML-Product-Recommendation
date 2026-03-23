@@ -1,3 +1,5 @@
 Activate mediul virtual:
 
 source venv/bin/activate
+
+link dataset : https://grouplens.org/datasets/movielens/latest/

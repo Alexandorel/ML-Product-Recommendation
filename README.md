@@ -5,7 +5,7 @@ Repository destinat materiei "Sisteme Inteligente"
 
 ## Sursa date
 
-[Movies](https://www.kaggle.com/datasets/abdallahwagih/movies)
+[MovieLens](https://grouplens.org/datasets/movielens/latest/)
 
 Descarcat la data: 17.03.2026
 ## Obiectivul proiectului
